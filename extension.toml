@@ -1,0 +1,7 @@
+id = "gruvbox-material-dark"
+name = "Gruvbox Material Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["GaussianWonder <teo.virghi@gmail.com>"]
+description = "Gruvbox Material Port for Zed"
+repository = "https://github.com/GaussianWonder/zed-gruvbox-material"
