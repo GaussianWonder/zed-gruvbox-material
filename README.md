@@ -1,4 +1,4 @@
-# Gruvbox Material Dark
+# Gruvbox Material Dark Port
 
 Port of [sainnhe's Gruvbox Material](https://github.com/sainnhe/gruvbox-material) VSCode theme to Zed editor format. No changes were made to the original scheme.
 
@@ -62,7 +62,7 @@ Follow [zed-comment](https://github.com/thedadams/zed-comment?tab=readme-ov-file
 ```json
 {
   "theme_overrides": {
-    "Gruvbox Material Dark": {
+    "Gruvbox Material Dark Port": {
       "syntax": {
         "constant.comment.todo": {}, // INFO: styles
         "string.comment.info": {}, // NOTE: styles
@@ -88,7 +88,7 @@ Here is a list of overrides (**click to expand**):
 
     ```json
     {
-      "Gruvbox Material Dark": {
+      "Gruvbox Material Dark Port": {
         "syntax": {
           "comment": {
             "font_style": "normal"
@@ -122,7 +122,7 @@ Here is a list of overrides (**click to expand**):
 
     ```json
     {
-      "Gruvbox Material Dark": {
+      "Gruvbox Material Dark Port": {
         "syntax": {
           "constant.comment.todo": {
             "background_color": "#5c371f"
@@ -152,7 +152,7 @@ Here is a list of overrides (**click to expand**):
 
     ```json
     {
-      "Gruvbox Material Dark": {
+      "Gruvbox Material Dark Port": {
         "syntax": {
           "constant.comment.todo": {
             "background_color": "#2e1c10"
@@ -180,7 +180,7 @@ Here is a list of overrides (**click to expand**):
 
 ```json
 {
-  "Gruvbox Material Dark": {
+  "Gruvbox Material Dark Port": {
     "syntax": {
       "constant.comment.todo": {
         "background_color": "#2e1c10"
