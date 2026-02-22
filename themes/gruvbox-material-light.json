@@ -270,8 +270,7 @@
             "color": "#6c782e"
           },
           "hint": {
-            "color": "#a89984",
-            "font_style": "italic"
+            "color": "#a89984"
           },
           "keyword": {
             "color": "#c14a4a"
