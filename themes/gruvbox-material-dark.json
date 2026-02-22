@@ -239,6 +239,10 @@
           "constant": {
             "color": "#d3869b"
           },
+          "constant.comment.todo": {
+            "color": "#e78a4e",
+            "font_style": "italic"
+          },
           "constructor": {
             "color": "#a9b665"
           },
@@ -275,6 +279,10 @@
           "keyword": {
             "color": "#ea6962"
           },
+          "keyword.comment.warn": {
+            "color": "#d8a657",
+            "font_style": "italic"
+          },
           "label": {
             "color": "#89b482"
           },
@@ -302,6 +310,10 @@
           },
           "property": {
             "color": "#d4be98"
+          },
+          "property.comment.error": {
+            "color": "#ea6962",
+            "font_style": "italic"
           },
           "punctuation": {
             "color": "#d4be98"
@@ -332,6 +344,10 @@
           },
           "string.special.symbol": {
             "color": "#d3869b"
+          },
+          "string.comment.info": {
+            "color": "#a9b665",
+            "font_style": "italic"
           },
           "tag": {
             "color": "#e78a4e"
