@@ -47,3 +47,7 @@ Port of [sainnhe's Gruvbox Material](https://github.com/sainnhe/gruvbox-material
 ![light](./assets/light.png)
 
 ---
+
+## Differences from other gruvbox themes
+
+- Lighter inlay hints
